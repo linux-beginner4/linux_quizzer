@@ -1,3 +1,3 @@
- Linux Quizzer  
+# Linux Quizzer ?? 
 Petit jeu pour apprendre les commandes de Linux. 
-## Ex‚cution du Quiz 
+## Execution du Quiz 

@@ -1,2 +1,2 @@
-"#linux quizzer ??" 
-"petit jeu pour apprendre les commandes linux " 
+"# Linux Quizzer ??" 
+"Petit jeu pour apprendre les commandes de Linux." 

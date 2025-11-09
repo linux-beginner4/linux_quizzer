@@ -1,12 +1,12 @@
-#linux quizzer ?? 
+#linux quizzer ğŸ®
 Petit jeu pour apprendre les commandes de Linux. 
 ## Execution du Quiz 
-### Pr‚requis 
-Assurez-vous que **Python 3.x** est install‚ sur votre systŠme. 
-### T‚l‚charger le code 
-La m‚thode consiste … t‚l‚charger l'archive .ZIP ou, si vous utilisez Git, cloner le d‚p“t : 
+### PrÃ©requis 
+Assurez-vous que **Python 3.x** est installÃ© sur votre systÃ¨me. 
+### TÃ©lÃ©charger le code 
+La mÃ©thode consiste â€¦ tÃ©lÃ©charger l'archive .ZIP ou, si vous utilisez Git, cloner le dÃ©pot : 
 ```bash 
 git clone [https://github.com/linux-beginner4/linux_quizzer.git](https://github.com/linux-beginner4/linux_quizzer.git) 
 cd linux_quizzer 
-## ?? Auteur: GANGO ABDOUL 
+## ğŸ‘¤ Auteur: GANGO ABDOUL 
 linux-beginner4 

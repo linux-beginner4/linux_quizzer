@@ -1,6 +1,6 @@
 # linux quizzer 🎮
 Petit jeu pour apprendre les commandes de Linux. 
-## Execution du Quiz 
+## Execution du Quiz 🚀 
 ### Prérequis 
 Assurez-vous que **Python 3.x** est installé sur votre système. 
 ### Télécharger le code 
